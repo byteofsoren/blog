@@ -1,0 +1,7 @@
+[submodule "bytelog/themes/fuji"]
+	path = bytelog/themes/fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
+[submodule "bytelog/public"]
+	path = bytelog/public
+	url = https://github.com/byteofsoren/bytelog.github.io.git
+	branch = main
